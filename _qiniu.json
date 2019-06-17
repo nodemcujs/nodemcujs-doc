@@ -1,0 +1,7 @@
+{
+  "src_dir": "./@qiniu",
+  "bucket": "lanfly",
+  "overwrite": true,
+  "rescan_local": true,
+  "skip_suffixes": ".DS_Store"
+}

@@ -1,0 +1,122 @@
+/*
+ * Theme 2
+ */
+div.book.color-theme-1 .dropdown-menu {
+    background-color: #2d3143;
+    border-color: #272a3a;
+}
+
+div.book.color-theme-1 .dropdown-menu .dropdown-caret .caret-inner {
+    border-bottom: 9px solid #2d3143;
+}
+
+div.book.color-theme-1 .dropdown-menu .buttons {
+    border-color: #272a3a;
+}
+
+div.book.color-theme-1 .dropdown-menu .button {
+    color: #62677f;
+}
+
+div.book.color-theme-1 .dropdown-menu .button:hover {
+    color: #f4f4f5;
+}
+
+.book .book-header .font-settings .font-enlarge {
+    line-height: 30px;
+    font-size: 1.4em;
+}
+
+.book .book-header .font-settings .font-reduce {
+    line-height: 30px;
+    font-size: 1em;
+}
+
+.book.font-family-0 {
+    font-family: Georgia, serif;
+}
+
+.book.font-family-1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div.book.book.color-theme-1 .book-header {
+    color: #afa790;
+    background: transparent;
+}
+
+div.book.book.color-theme-1 .book-header .btn {
+    color: #afa790;
+}
+
+div.book.book.color-theme-1 .book-header .btn:hover {
+    color: #73553c;
+    background: none;
+}
+
+div.book.book.color-theme-1 .book-header h1 {
+    color: #704214;
+}
+
+div.book.book.color-theme-1 .book-header {
+    color: #7e888b;
+    background: transparent;
+}
+
+div.book.book.color-theme-1 .book-header .btn {
+    color: #3b3f54;
+}
+
+div.book.book.color-theme-1 .book-header .btn:hover {
+    color: #fffff5;
+    background: none;
+}
+
+div.book.book.color-theme-1 .book-header h1 {
+    color: #bdcadb;
+}
+
+/*
+ * Theme 2
+ */
+div.book.color-theme-1 .book-summary {
+    color: #bcc1d2;
+    background: #2d3143;
+    border-right: none;
+}
+
+div.book.book.color-theme-1 .book-summary .book-search {
+    background: transparent;
+}
+
+div.book.book.color-theme-1 .book-summary .book-search input,
+div.book.book.color-theme-1 .book-summary .book-search input:focus {
+    border: 1px solid transparent;
+}
+
+div.book.book.color-theme-1 .book-summary ul.summary li.divider {
+    background: #272a3a;
+    box-shadow: none;
+}
+
+div.book.book.color-theme-1 .book-summary ul.summary li i.fa-check {
+    color: #33cc33;
+}
+
+div.book.book.color-theme-1 .book-summary ul.summary li.done>a {
+    color: #62687f;
+}
+
+div.book.book.color-theme-1 .book-summary ul.summary li a,
+div.book.book.color-theme-1 .book-summary ul.summary li span {
+    color: #c1c6d7;
+    background: transparent;
+    font-weight: 600;
+}
+
+div.book.book.color-theme-1 .book-summary ul.summary li.active>a,
+div.book.book.color-theme-1 .book-summary ul.summary li a:hover {
+    color: #f4f4f5;
+    background: #252737;
+    font-weight: 600;
+}

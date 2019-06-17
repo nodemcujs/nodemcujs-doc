@@ -1,0 +1,23 @@
+{
+  "title": "提莫的神秘商店",
+  "plugins": [
+    "logo",
+    "custom-js-css"
+  ],
+  "pluginsConfig": {
+    "theme": "sepia",
+    "logo": {
+      "url": "http://timor.tech",
+      "rootStyle": "background-color: #a5b807; text-align: center; padding: 20px;",
+      "logo": "http://lanfly.vicp.io/logo.png",
+      "logoStyle": " width: 70px;",
+      "title": "提莫的神秘商店",
+      "titleStyle": "color: white; font-size: 18px;"
+    },
+    "custom-js-css": {
+      "css": [
+        "./custom/style.css"
+      ]
+    }
+  }
+}
